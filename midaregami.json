@@ -1,0 +1,7998 @@
+{
+ "work": "みだれ髪",
+ "work_id": "midaregami",
+ "repo": "kumoi-no-fumigura/midaregami",
+ "yomi": "みだれがみ",
+ "category": "近代歌集",
+ "kind": "kashu",
+ "description": {
+  "kind": "近代歌集",
+  "era": "明治時代",
+  "author": "与謝野晶子",
+  "desc": "与謝野晶子の第一歌集（明治 34 年）。"
+ },
+ "editions": [
+  {
+   "pid": "aozora",
+   "title": "みだれ髪",
+   "editor": "入力: 田中哲郎、校正: 富田倫生",
+   "series": "青空文庫",
+   "publisher": "新潮文庫、新潮社",
+   "year": 2000,
+   "pages": "",
+   "url": "https://www.aozora.gr.jp/cards/000885/card51307.html"
+  }
+ ],
+ "status": "未校正",
+ "license": {
+  "text": "CC0 1.0"
+ },
+ "translation": null,
+ "blocks": [
+  {
+   "id": "midaregami-000001",
+   "pid": "aozora",
+   "pages": [],
+   "no": null,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "この書の体裁は悉く藤島武二先生の意匠に成れり表紙画みだれ髪の輪郭は恋愛の矢のハートを射たるにて矢の根より吹き出でたる花は詩を意味せるなり",
+   "sachu": "",
+   "poems": [],
+   "jo": true
+  },
+  {
+   "id": "midaregami-000002",
+   "pid": "aozora",
+   "pages": [],
+   "no": 1,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "夜の帳にささめき尽きし星の今を下界の人の鬢のほつれよ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "帳",
+     "r": "ちやう"
+    },
+    {
+     "a": "下界",
+     "r": "げかい"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000003",
+   "pid": "aozora",
+   "pages": [],
+   "no": 2,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "歌にきけな誰れ野の花に紅き否むおもむきあるかな春罪もつ子",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "否",
+     "r": "いな"
+    },
+    {
+     "a": "春",
+     "r": "はる"
+    },
+    {
+     "a": "罪",
+     "r": "つみ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000004",
+   "pid": "aozora",
+   "pages": [],
+   "no": 3,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "髪五尺ときなば水にやはらかき少女ごころは秘めて放たじ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "髪",
+     "r": "かみ"
+    },
+    {
+     "a": "少女",
+     "r": "をとめ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000005",
+   "pid": "aozora",
+   "pages": [],
+   "no": 4,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "血ぞもゆるかさむひと夜の夢のやど春を行く人神おとしめな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000006",
+   "pid": "aozora",
+   "pages": [],
+   "no": 5,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "椿それも梅もさなりき白かりきわが罪問はぬ色桃に見る",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "色",
+     "r": "いろ"
+    },
+    {
+     "a": "桃",
+     "r": "もゝ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000007",
+   "pid": "aozora",
+   "pages": [],
+   "no": 6,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "その子二十櫛にながるる黒髪のおごりの春のうつくしきかな",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "二十",
+     "r": "はたち"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000008",
+   "pid": "aozora",
+   "pages": [],
+   "no": 7,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "堂の鐘のひくきゆふべを前髪の桃のつぼみに経たまへ君",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "経",
+     "r": "きやう"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000009",
+   "pid": "aozora",
+   "pages": [],
+   "no": 8,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "紫にもみうらにほふみだれ篋をかくしわづらふ宵の春の神",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "篋",
+     "r": "ばこ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000010",
+   "pid": "aozora",
+   "pages": [],
+   "no": 9,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "臙脂色は誰にかたらむ血のゆらぎ春のおもひのさかりの命",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "臙脂色",
+     "r": "えんじいろ"
+    },
+    {
+     "a": "命",
+     "r": "いのち"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000011",
+   "pid": "aozora",
+   "pages": [],
+   "no": 10,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "紫の濃き虹説きしさかづきに映る春の子眉毛かぼそき",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "映",
+     "r": "うつ"
+    },
+    {
+     "a": "眉毛",
+     "r": "まゆげ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000012",
+   "pid": "aozora",
+   "pages": [],
+   "no": 11,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "紺青を絹にわが泣く春の暮やまぶきがさね友歌ねびぬ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "紺青",
+     "r": "こんじやう"
+    },
+    {
+     "a": "友",
+     "r": "とも"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000013",
+   "pid": "aozora",
+   "pages": [],
+   "no": 12,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "まゐる酒に灯あかき宵を歌たまへ女はらから牡丹に名なき",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "灯",
+     "r": "ひ"
+    },
+    {
+     "a": "女",
+     "r": "をんな"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000014",
+   "pid": "aozora",
+   "pages": [],
+   "no": 13,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "海棠にえうなくときし紅すてて夕雨みやる瞳よたゆき",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "紅",
+     "r": "べに"
+    },
+    {
+     "a": "夕雨",
+     "r": "ゆふさめ"
+    },
+    {
+     "a": "瞳",
+     "r": "ひとみ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000015",
+   "pid": "aozora",
+   "pages": [],
+   "no": 14,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "水にねし嵯峨の大堰のひと夜神絽蚊帳の裾の歌ひめたまへ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "大堰",
+     "r": "おほゐ"
+    },
+    {
+     "a": "夜",
+     "r": "よ"
+    },
+    {
+     "a": "神",
+     "r": "がみ"
+    },
+    {
+     "a": "絽蚊帳",
+     "r": "ろがや"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000016",
+   "pid": "aozora",
+   "pages": [],
+   "no": 15,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "春の国恋の御国のあさぼらけしるきは髪か梅花のあぶら",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "梅花",
+     "r": "ばいくわ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000017",
+   "pid": "aozora",
+   "pages": [],
+   "no": 16,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "今はゆかむさらばと云ひし夜の神の御裾さはりてわが髪ぬれぬ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "御裾",
+     "r": "みすそ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000018",
+   "pid": "aozora",
+   "pages": [],
+   "no": 17,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "細きわがうなじにあまる御手のべてささへたまへな帰る夜の神",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "御手",
+     "r": "みて"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000019",
+   "pid": "aozora",
+   "pages": [],
+   "no": 18,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "清水へ祇園をよぎる桜月夜こよひ逢ふ人みなうつくしき",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "清水",
+     "r": "きよみづ"
+    },
+    {
+     "a": "祇園",
+     "r": "ぎをん"
+    },
+    {
+     "a": "桜月夜",
+     "r": "さくらづきよ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000020",
+   "pid": "aozora",
+   "pages": [],
+   "no": 19,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "秋の神の御衣より曳く白き虹ものおもふ子の額に消えぬ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "御衣",
+     "r": "みけし"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000021",
+   "pid": "aozora",
+   "pages": [],
+   "no": 20,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "経はにがし春のゆふべを奥の院の二十五菩薩歌うけたまへ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "経",
+     "r": "きやう"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000022",
+   "pid": "aozora",
+   "pages": [],
+   "no": 21,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "山ごもりかくてあれなのみをしへよ紅つくるころ桃の花さかむ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "紅",
+     "r": "べに"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000023",
+   "pid": "aozora",
+   "pages": [],
+   "no": 22,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "とき髪に室むつまじの百合のかをり消えをあやぶむ夜の淡紅色よ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "室",
+     "r": "むろ"
+    },
+    {
+     "a": "夜",
+     "r": "よ"
+    },
+    {
+     "a": "淡紅色",
+     "r": "ときいろ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000024",
+   "pid": "aozora",
+   "pages": [],
+   "no": 23,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "雲ぞ青き来し夏姫が朝の髪うつくしいかな水に流るる",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "夏姫",
+     "r": "なつひめ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000025",
+   "pid": "aozora",
+   "pages": [],
+   "no": 24,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "夜の神の朝のり帰る羊とらへちさき枕のしたにかくさむ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000026",
+   "pid": "aozora",
+   "pages": [],
+   "no": 25,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "みぎはくる牛かひ男歌あれな秋のみづうみあまりさびしき",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000027",
+   "pid": "aozora",
+   "pages": [],
+   "no": 26,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "やは肌のあつき血汐にふれも見でさびしからずや道を説く君",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000028",
+   "pid": "aozora",
+   "pages": [],
+   "no": 27,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "許したまへあらずばこその今のわが身うすむらさきの酒うつくしき",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000029",
+   "pid": "aozora",
+   "pages": [],
+   "no": 28,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "わすれがたきとのみに趣味をみとめませ説かじ紫その秋の花",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "趣味",
+     "r": "しゆみ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000030",
+   "pid": "aozora",
+   "pages": [],
+   "no": 29,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "人かへさず暮れむの春の宵ごこち小琴にもたす乱れ乱れ髪",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "小琴",
+     "r": "をごと"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000031",
+   "pid": "aozora",
+   "pages": [],
+   "no": 30,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "たまくらに鬢のひとすぢきれし音を小琴と聞きし春の夜の夢",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "鬢",
+     "r": "びん"
+    },
+    {
+     "a": "音",
+     "r": "ね"
+    },
+    {
+     "a": "小琴",
+     "r": "をごと"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000032",
+   "pid": "aozora",
+   "pages": [],
+   "no": 31,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "春雨にぬれて君こし草の門よおもはれ顔の海棠の夕",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "門",
+     "r": "かど"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000033",
+   "pid": "aozora",
+   "pages": [],
+   "no": 32,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "小草いひぬ『酔へる涙の色にさかむそれまで斯くて覚めざれな少女』",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "小草",
+     "r": "をぐさ"
+    },
+    {
+     "a": "少女",
+     "r": "をとめ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000034",
+   "pid": "aozora",
+   "pages": [],
+   "no": 33,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "牧場いでて南にはしる水ながしさても緑の野にふさふ君",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000035",
+   "pid": "aozora",
+   "pages": [],
+   "no": 34,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "春よ老いな藤によりたる夜の舞殿ゐならぶ子らよ束の間老いな",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "夜",
+     "r": "よ"
+    },
+    {
+     "a": "舞殿",
+     "r": "まひどの"
+    },
+    {
+     "a": "束",
+     "r": "つか"
+    },
+    {
+     "a": "間",
+     "r": "ま"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000036",
+   "pid": "aozora",
+   "pages": [],
+   "no": 35,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "雨みゆるうき葉しら蓮絵師の君に傘まゐらする三尺の船",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "蓮",
+     "r": "はす"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000037",
+   "pid": "aozora",
+   "pages": [],
+   "no": 36,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "御相いとどしたしみやすきなつかしき若葉木立の中の盧遮那仏",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "御相",
+     "r": "みさう"
+    },
+    {
+     "a": "若葉",
+     "r": "わかば"
+    },
+    {
+     "a": "立",
+     "r": "だち"
+    },
+    {
+     "a": "中",
+     "r": "なか"
+    },
+    {
+     "a": "盧遮那仏",
+     "r": "るしやなぶつ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000038",
+   "pid": "aozora",
+   "pages": [],
+   "no": 37,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "さて責むな高きにのぼり君みずや紅の涙の永劫のあと",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "紅",
+     "r": "あけ"
+    },
+    {
+     "a": "永劫",
+     "r": "えいごふ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000039",
+   "pid": "aozora",
+   "pages": [],
+   "no": 38,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "春雨にゆふべの宮をまよひ出でし小羊君をのろはしの我れ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "宮",
+     "r": "みや"
+    },
+    {
+     "a": "小羊",
+     "r": "こひつじ"
+    },
+    {
+     "a": "君",
+     "r": "きみ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000040",
+   "pid": "aozora",
+   "pages": [],
+   "no": 39,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ゆあみする泉の底の小百合花二十の夏をうつくしと見ぬ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "小百合花",
+     "r": "さゆりばな"
+    },
+    {
+     "a": "二十",
+     "r": "はたち"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000041",
+   "pid": "aozora",
+   "pages": [],
+   "no": 40,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "みだれごこちまどひごこちぞ頻なる百合ふむ神に乳おほひあへず",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "乳",
+     "r": "ちゝ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000042",
+   "pid": "aozora",
+   "pages": [],
+   "no": 41,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "くれなゐの薔薇のかさねの唇に霊の香のなき歌のせますな",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "薔薇",
+     "r": "ばら"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000043",
+   "pid": "aozora",
+   "pages": [],
+   "no": 42,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "旅のやど水に端居の僧の君をいみじと泣きぬ夏の夜の月",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "端居",
+     "r": "はしゐ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000044",
+   "pid": "aozora",
+   "pages": [],
+   "no": 43,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "春の夜の闇の中くるあまき風しばしかの子が髪に吹かざれ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "闇",
+     "r": "やみ"
+    },
+    {
+     "a": "中",
+     "r": "なか"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000045",
+   "pid": "aozora",
+   "pages": [],
+   "no": 44,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "水に飢ゑて森をさまよふ小羊のそのまなざしに似たらずや君",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000046",
+   "pid": "aozora",
+   "pages": [],
+   "no": 45,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "誰ぞ夕ひがし生駒の山の上のまよひの雲にこの子うらなへ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "夕",
+     "r": "ゆふべ"
+    },
+    {
+     "a": "生駒",
+     "r": "いこま"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000047",
+   "pid": "aozora",
+   "pages": [],
+   "no": 46,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "悔いますなおさへし袖に折れし剣つひの理想の花に刺あらじ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "剣",
+     "r": "つるぎ"
+    },
+    {
+     "a": "理想",
+     "r": "おもひ"
+    },
+    {
+     "a": "刺",
+     "r": "とげ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000048",
+   "pid": "aozora",
+   "pages": [],
+   "no": 47,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "額ごしに暁の月みる加茂川の浅水色のみだれ藻染よ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "額",
+     "r": "ぬか"
+    },
+    {
+     "a": "暁",
+     "r": "あけ"
+    },
+    {
+     "a": "浅水色",
+     "r": "あさみづいろ"
+    },
+    {
+     "a": "藻染",
+     "r": "もぞめ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000049",
+   "pid": "aozora",
+   "pages": [],
+   "no": 48,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "御袖くくりかへりますかの薄闇の欄干夏の加茂川の神",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "御袖",
+     "r": "みそで"
+    },
+    {
+     "a": "薄闇",
+     "r": "うすやみ"
+    },
+    {
+     "a": "欄干",
+     "r": "おばしま"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000050",
+   "pid": "aozora",
+   "pages": [],
+   "no": 49,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "なほ許せ御国遠くば夜の御神紅盃船に送りまゐらせむ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "夜",
+     "r": "よ"
+    },
+    {
+     "a": "御神",
+     "r": "みかみ"
+    },
+    {
+     "a": "紅盃船",
+     "r": "べにざらふね"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000051",
+   "pid": "aozora",
+   "pages": [],
+   "no": 50,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "狂ひの子われに焔の翅かろき百三十里あわただしの旅",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "焔",
+     "r": "ほのほ"
+    },
+    {
+     "a": "翅",
+     "r": "はね"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000052",
+   "pid": "aozora",
+   "pages": [],
+   "no": 51,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "今ここにかへりみすればわがなさけ闇をおそれぬめしひに似たり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "闇",
+     "r": "やみ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000053",
+   "pid": "aozora",
+   "pages": [],
+   "no": 52,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "うつくしき命を惜しと神のいひぬ願ひのそれは果してし今",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000054",
+   "pid": "aozora",
+   "pages": [],
+   "no": 53,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "わかき小指胡紛をとくにまどひあり夕ぐれ寒き木蓮の花",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "小指",
+     "r": "をゆび"
+    },
+    {
+     "a": "胡紛",
+     "r": "ごふん"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000055",
+   "pid": "aozora",
+   "pages": [],
+   "no": 54,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ゆるされし朝よそほひのしばらくを君に歌へな山の鶯",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000056",
+   "pid": "aozora",
+   "pages": [],
+   "no": 55,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ふしませとその間さがりし春の宵衣桁にかけし御袖かづきぬ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "間",
+     "r": "ま"
+    },
+    {
+     "a": "衣桁",
+     "r": "いかう"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000057",
+   "pid": "aozora",
+   "pages": [],
+   "no": 56,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "みだれ髪を京の島田にかへし朝ふしてゐませの君ゆりおこす",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000058",
+   "pid": "aozora",
+   "pages": [],
+   "no": 57,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "しのび足に君を追ひゆく薄月夜右のたもとの文がらおもき",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "薄月夜",
+     "r": "うすづきよ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000059",
+   "pid": "aozora",
+   "pages": [],
+   "no": 58,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "紫に小草が上へ影おちぬ野の春かぜに髪けづる朝",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "小草",
+     "r": "をぐさ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000060",
+   "pid": "aozora",
+   "pages": [],
+   "no": 59,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "絵日傘をかなたの岸の草になげわたる小川よ春の水ぬるき",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000061",
+   "pid": "aozora",
+   "pages": [],
+   "no": 60,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "しら壁へ歌ひとつ染めむねがひにて笠はあらざりき二百里の旅",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000062",
+   "pid": "aozora",
+   "pages": [],
+   "no": 61,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "嵯峨の君を歌に仮せなの朝のすさびすねし鏡のわが夏姿",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000063",
+   "pid": "aozora",
+   "pages": [],
+   "no": 62,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ふさひ知らぬ新婦かざすしら萩に今宵の神のそと片笑みし",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "新婦",
+     "r": "にひびと"
+    },
+    {
+     "a": "片笑",
+     "r": "かたゑ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000064",
+   "pid": "aozora",
+   "pages": [],
+   "no": 63,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ひと枝の野の梅をらば足りぬべしこれかりそめのかりそめの別れ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000065",
+   "pid": "aozora",
+   "pages": [],
+   "no": 64,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "鶯は君が夢よともどきながら緑のとばりそとかかげ見る",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000066",
+   "pid": "aozora",
+   "pages": [],
+   "no": 65,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "紫の紅の滴り花におちて成りしかひなの夢うたがふな",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "滴",
+     "r": "したゝ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000067",
+   "pid": "aozora",
+   "pages": [],
+   "no": 66,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ほととぎす嵯峨へは一里京へ三里水の清瀧夜の明けやすき",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "清瀧",
+     "r": "きよたき"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000068",
+   "pid": "aozora",
+   "pages": [],
+   "no": 67,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "紫の理想の雲はちぎれ／＼仰ぐわが空それはた消えぬ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "紫",
+     "r": "むらさき"
+    },
+    {
+     "a": "理想",
+     "r": "りさう"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000069",
+   "pid": "aozora",
+   "pages": [],
+   "no": 68,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "乳ぶさおさへ神秘のとばりそとけりぬここなる花の紅ぞ濃き",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "神秘",
+     "r": "しんぴ"
+    },
+    {
+     "a": "紅",
+     "r": "くれなゐ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000070",
+   "pid": "aozora",
+   "pages": [],
+   "no": 69,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "神の背にひろきながめをねがはずや今かたかたの袖こむらさき",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "背",
+     "r": "せな"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000071",
+   "pid": "aozora",
+   "pages": [],
+   "no": 70,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "とや心朝の小琴の四つの緒のひとつを永久に神きりすてし",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "小琴",
+     "r": "をごと"
+    },
+    {
+     "a": "永久",
+     "r": "とは"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000072",
+   "pid": "aozora",
+   "pages": [],
+   "no": 71,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ひく袖に片笑もらす春ぞわかき朝のうしほの恋のたはぶれ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "片笑",
+     "r": "かたゑみ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000073",
+   "pid": "aozora",
+   "pages": [],
+   "no": 72,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "くれの春隣すむ画師うつくしき今朝山吹に声わかかりし",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "画師",
+     "r": "ゑし"
+    },
+    {
+     "a": "今朝",
+     "r": "けさ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000074",
+   "pid": "aozora",
+   "pages": [],
+   "no": 73,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "郷人にとなり邸のしら藤の花はとのみに問ひもかねたる",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "郷人",
+     "r": "さとびと"
+    },
+    {
+     "a": "邸",
+     "r": "やしき"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000075",
+   "pid": "aozora",
+   "pages": [],
+   "no": 74,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "人にそひて樒ささぐるこもり妻母なる君を御墓に泣きぬ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "樒",
+     "r": "しきみ"
+    },
+    {
+     "a": "妻",
+     "r": "づま"
+    },
+    {
+     "a": "御墓",
+     "r": "みはか"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000076",
+   "pid": "aozora",
+   "pages": [],
+   "no": 75,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "なにとなく君に待たるるここちして出でし花野の夕月夜かな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000077",
+   "pid": "aozora",
+   "pages": [],
+   "no": 76,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "おばしまにおもひはてなき身をもたせ小萩をわたる秋の風見る",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000078",
+   "pid": "aozora",
+   "pages": [],
+   "no": 77,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ゆあみして泉を出でしわがはだにふるるはつらき人の世のきぬ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000079",
+   "pid": "aozora",
+   "pages": [],
+   "no": 78,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "売りし琴にむつびの曲をのせしひびき逢魔がどきの黒百合折れぬ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "曲",
+     "r": "きよく"
+    },
+    {
+     "a": "逢魔",
+     "r": "あふま"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000080",
+   "pid": "aozora",
+   "pages": [],
+   "no": 79,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "うすものの二尺のたもとすべりおちて蛍ながるる夜風の青き",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "夜風",
+     "r": "よかぜ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000081",
+   "pid": "aozora",
+   "pages": [],
+   "no": 80,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "恋ならぬねざめたたずむ野のひろさ名なし小川のうつくしき夏",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000082",
+   "pid": "aozora",
+   "pages": [],
+   "no": 81,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "このおもひ何とならむのまどひもちしその昨日すらさびしかりし我れ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "昨日",
+     "r": "きのふ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000083",
+   "pid": "aozora",
+   "pages": [],
+   "no": 82,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "おりたちてうつつなき身の牡丹見ぬそぞろや夜を蝶のねにこし",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "夜",
+     "r": "よる"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000084",
+   "pid": "aozora",
+   "pages": [],
+   "no": 83,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "その涙のごふえにしは持たざりきさびしの水に見し二十日月",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "二十日月",
+     "r": "はつかづき"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000085",
+   "pid": "aozora",
+   "pages": [],
+   "no": 84,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "水十里ゆふべの船をあだにやりて柳による子ぬかうつくしき",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000086",
+   "pid": "aozora",
+   "pages": [],
+   "no": null,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "（をとめ）",
+   "sachu": "",
+   "poems": [],
+   "jo": true
+  },
+  {
+   "id": "midaregami-000087",
+   "pid": "aozora",
+   "pages": [],
+   "no": 85,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "旅の身の大河ひとつまどはむや徐かに日記の里の名けしぬ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "大河",
+     "r": "おほかは"
+    },
+    {
+     "a": "徐",
+     "r": "しづ"
+    },
+    {
+     "a": "日記",
+     "r": "にき"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000088",
+   "pid": "aozora",
+   "pages": [],
+   "no": null,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "（旅びと）",
+   "sachu": "",
+   "poems": [],
+   "jo": true
+  },
+  {
+   "id": "midaregami-000089",
+   "pid": "aozora",
+   "pages": [],
+   "no": 86,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "小傘とりて朝の水くみ我とこそ穂麦あをあを小雨ふる里",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "小傘",
+     "r": "をがさ"
+    },
+    {
+     "a": "穂麦",
+     "r": "ほむぎ"
+    },
+    {
+     "a": "小雨",
+     "r": "こさめ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000090",
+   "pid": "aozora",
+   "pages": [],
+   "no": 87,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "おとに立ちて小川をのぞく乳母が小窓小雨のなかに山吹のちる",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "小窓",
+     "r": "こまど"
+    },
+    {
+     "a": "小雨",
+     "r": "こさめ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000091",
+   "pid": "aozora",
+   "pages": [],
+   "no": 88,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "恋か血か牡丹に尽きし春のおもひとのゐの宵のひとり歌なき",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000092",
+   "pid": "aozora",
+   "pages": [],
+   "no": 89,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "長き歌を牡丹にあれの宵の殿妻となる身の我れぬけ出でし",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "殿",
+     "r": "おとど"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000093",
+   "pid": "aozora",
+   "pages": [],
+   "no": 90,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "春三月柱おかぬ琴に音たてぬふれしそぞろの宵の乱れ髪",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "三月",
+     "r": "みつき"
+    },
+    {
+     "a": "柱",
+     "r": "ぢ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000094",
+   "pid": "aozora",
+   "pages": [],
+   "no": 91,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "いづこまで君は帰るとゆふべ野にわが袖ひきぬ翅ある童",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "翅",
+     "r": "はね"
+    },
+    {
+     "a": "童",
+     "r": "わらは"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000095",
+   "pid": "aozora",
+   "pages": [],
+   "no": 92,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ゆふぐれの戸に倚り君がうたふ歌『うき里去りて往きて帰らじ』",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000096",
+   "pid": "aozora",
+   "pages": [],
+   "no": 93,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "さびしさに百二十里をそぞろ来ぬと云ふ人あらばあらば如何ならむ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000097",
+   "pid": "aozora",
+   "pages": [],
+   "no": 94,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "君が歌に袖かみし子を誰と知る浪速の宿は秋寒かりき",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000098",
+   "pid": "aozora",
+   "pages": [],
+   "no": 95,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "その日より魂にわかれし我れむくろ美しと見ば人にとぶらへ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000099",
+   "pid": "aozora",
+   "pages": [],
+   "no": 96,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "今の我に歌のありやを問ひますな柱なき繊絃これ二十五絃",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "柱",
+     "r": "ぢ"
+    },
+    {
+     "a": "繊絃",
+     "r": "ほそいと"
+    },
+    {
+     "a": "絃",
+     "r": "げん"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000100",
+   "pid": "aozora",
+   "pages": [],
+   "no": 97,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "神のさだめ命のひびき終の我世琴に斧うつ音ききたまへ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "終",
+     "r": "つひ"
+    },
+    {
+     "a": "琴",
+     "r": "こと"
+    },
+    {
+     "a": "斧",
+     "r": "をの"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000101",
+   "pid": "aozora",
+   "pages": [],
+   "no": 98,
+   "maki": "臙脂紫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "人ふたり無才の二字を歌に笑みぬ恋二万年ながき短き",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "無才",
+     "r": "ぶさい"
+    },
+    {
+     "a": "恋",
+     "r": "こひ"
+    },
+    {
+     "a": "年",
+     "r": "ねん"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000102",
+   "pid": "aozora",
+   "pages": [],
+   "no": 99,
+   "maki": "蓮の花船",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "漕ぎかへる夕船おそき僧の君紅蓮や多きしら蓮や多き",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "夕船",
+     "r": "ゆふぶね"
+    },
+    {
+     "a": "紅蓮",
+     "r": "ぐれん"
+    },
+    {
+     "a": "蓮",
+     "r": "はす"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000103",
+   "pid": "aozora",
+   "pages": [],
+   "no": 100,
+   "maki": "蓮の花船",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "あづまやに水のおときく藤の夕はづしますなのひくき枕よ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000104",
+   "pid": "aozora",
+   "pages": [],
+   "no": 101,
+   "maki": "蓮の花船",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "御袖ならず御髪のたけときこえたり七尺いづれしら藤の花",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "御髪",
+     "r": "みぐし"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000105",
+   "pid": "aozora",
+   "pages": [],
+   "no": 102,
+   "maki": "蓮の花船",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "夏花のすがたは細きくれなゐに真昼いきむの恋よこの子よ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "真昼",
+     "r": "まひる"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000106",
+   "pid": "aozora",
+   "pages": [],
+   "no": 103,
+   "maki": "蓮の花船",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "肩おちて経にゆらぎのそぞろ髪をとめ有心者春の雲こき",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "経",
+     "r": "きやう"
+    },
+    {
+     "a": "有心者",
+     "r": "うしんじや"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000107",
+   "pid": "aozora",
+   "pages": [],
+   "no": 104,
+   "maki": "蓮の花船",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "とき髪を若枝にからむ風の西よ二尺に足らぬうつくしき虹",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "若枝",
+     "r": "わかえ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000108",
+   "pid": "aozora",
+   "pages": [],
+   "no": 105,
+   "maki": "蓮の花船",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "うながされて汀の闇に車おりぬほの紫の反橋の藤",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "汀",
+     "r": "みぎは"
+    },
+    {
+     "a": "闇",
+     "r": "やみ"
+    },
+    {
+     "a": "反橋",
+     "r": "そりはし"
+    },
+    {
+     "a": "藤",
+     "r": "ふぢ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000109",
+   "pid": "aozora",
+   "pages": [],
+   "no": 106,
+   "maki": "蓮の花船",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "われとなく梭の手とめし門の唄姉がゑまひの底はづかしき",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "梭",
+     "r": "をさ"
+    },
+    {
+     "a": "門",
+     "r": "かど"
+    },
+    {
+     "a": "唄",
+     "r": "うた"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000110",
+   "pid": "aozora",
+   "pages": [],
+   "no": 107,
+   "maki": "蓮の花船",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ゆあがりのみじまひなりて姿見に笑みし昨日の無きにしもあらず",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "昨日",
+     "r": "きのふ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000111",
+   "pid": "aozora",
+   "pages": [],
+   "no": 108,
+   "maki": "蓮の花船",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "人まへを袂すべりしきぬでまり知らずと云ひてかかへてにげぬ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000112",
+   "pid": "aozora",
+   "pages": [],
+   "no": 109,
+   "maki": "蓮の花船",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ひとつ篋にひひなをさめて蓋とぢて何となき息桃にはばかる",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "篋",
+     "r": "はこ"
+    },
+    {
+     "a": "蓋",
+     "r": "ふた"
+    },
+    {
+     "a": "息",
+     "r": "いき"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000113",
+   "pid": "aozora",
+   "pages": [],
+   "no": 110,
+   "maki": "蓮の花船",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ほの見しは奈良のはづれの若葉宿うすまゆずみのなつかしかりし",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "若葉宿",
+     "r": "わかばやど"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000114",
+   "pid": "aozora",
+   "pages": [],
+   "no": 111,
+   "maki": "蓮の花船",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "紅に名の知らぬ花さく野の小道いそぎたまふな小傘の一人",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "紅",
+     "r": "あけ"
+    },
+    {
+     "a": "小道",
+     "r": "こみち"
+    },
+    {
+     "a": "小傘",
+     "r": "をがさ"
+    },
+    {
+     "a": "一人",
+     "r": "ひとり"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000115",
+   "pid": "aozora",
+   "pages": [],
+   "no": 112,
+   "maki": "蓮の花船",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "くだり船昨夜月かげに歌そめし御堂の壁も見えず見えずなりぬ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "昨夜",
+     "r": "よべ"
+    },
+    {
+     "a": "御堂",
+     "r": "みだう"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000116",
+   "pid": "aozora",
+   "pages": [],
+   "no": 113,
+   "maki": "蓮の花船",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "師の君の目を病みませる庵の庭へうつしまゐらす白菊の花",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "庵",
+     "r": "いほ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000117",
+   "pid": "aozora",
+   "pages": [],
+   "no": 114,
+   "maki": "蓮の花船",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "文字ほそく君が歌ひとつ染めつけぬ玉虫ひめし小筥の蓋に",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "玉虫",
+     "r": "たまむし"
+    },
+    {
+     "a": "小筥",
+     "r": "こばこ"
+    },
+    {
+     "a": "蓋",
+     "r": "ふた"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000118",
+   "pid": "aozora",
+   "pages": [],
+   "no": 115,
+   "maki": "蓮の花船",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ゆふぐれを籠へ鳥よぶいもうとの爪先ぬらす海棠の雨",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "爪先",
+     "r": "つまさき"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000119",
+   "pid": "aozora",
+   "pages": [],
+   "no": 116,
+   "maki": "蓮の花船",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ゆく春をえらびよしある絹袷衣ねびのよそめを一人に問ひぬ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "絹袷衣",
+     "r": "きぬあはせ"
+    },
+    {
+     "a": "一人",
+     "r": "ひとり"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000120",
+   "pid": "aozora",
+   "pages": [],
+   "no": 117,
+   "maki": "蓮の花船",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ぬしいはずとれなの筆の水の夕そよ墨足らぬ撫子がさね",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "撫子",
+     "r": "なでしこ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000121",
+   "pid": "aozora",
+   "pages": [],
+   "no": 118,
+   "maki": "蓮の花船",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "母よびてあかつき問ひし君といはれそむくる片頬柳にふれぬ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000122",
+   "pid": "aozora",
+   "pages": [],
+   "no": 119,
+   "maki": "蓮の花船",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "のろひ歌かきかさねたる反古とりて黒き胡蝶をおさへぬるかな",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "反古",
+     "r": "ほご"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000123",
+   "pid": "aozora",
+   "pages": [],
+   "no": 120,
+   "maki": "蓮の花船",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "額しろき聖よ見ずや夕ぐれを海棠に立つ春夢見姿",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "額",
+     "r": "ぬか"
+    },
+    {
+     "a": "春夢見姿",
+     "r": "はるゆめみすがた"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000124",
+   "pid": "aozora",
+   "pages": [],
+   "no": 121,
+   "maki": "蓮の花船",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "笛の音に法華経うつす手をとどめひそめし眉よまだうらわかき",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000125",
+   "pid": "aozora",
+   "pages": [],
+   "no": 122,
+   "maki": "蓮の花船",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "白檀のけむりこなたへ絶えずあふるにくき扇をうばひぬるかな",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "白檀",
+     "r": "びやくだん"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000126",
+   "pid": "aozora",
+   "pages": [],
+   "no": 123,
+   "maki": "蓮の花船",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "母なるが枕経よむかたはらのちひさき足をうつくしと見き",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "枕経",
+     "r": "まくらぎやう"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000127",
+   "pid": "aozora",
+   "pages": [],
+   "no": 124,
+   "maki": "蓮の花船",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "わが歌に瞳のいろをうるませしその君去りて十日たちにけり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "瞳",
+     "r": "ひとみ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000128",
+   "pid": "aozora",
+   "pages": [],
+   "no": 125,
+   "maki": "蓮の花船",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "かたみぞと風なつかしむ小扇のかなめあやふくなりにけるかな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000129",
+   "pid": "aozora",
+   "pages": [],
+   "no": 126,
+   "maki": "蓮の花船",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "春の川のりあひ舟のわかき子が昨夜の泊の唄ねたましき",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "昨夜",
+     "r": "よべ"
+    },
+    {
+     "a": "泊",
+     "r": "とまり"
+    },
+    {
+     "a": "唄",
+     "r": "うた"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000130",
+   "pid": "aozora",
+   "pages": [],
+   "no": 127,
+   "maki": "蓮の花船",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "泣かで急げやは手にはばき解くえにしえにし持つ子の夕を待たむ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000131",
+   "pid": "aozora",
+   "pages": [],
+   "no": 128,
+   "maki": "蓮の花船",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "燕なく朝をはばきの紐ぞゆるき柳かすむやその家のめぐり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "紐",
+     "r": "ひも"
+    },
+    {
+     "a": "家",
+     "r": "や"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000132",
+   "pid": "aozora",
+   "pages": [],
+   "no": 129,
+   "maki": "蓮の花船",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "小川われ村のはづれの柳かげに消えぬ姿を泣く子朝見し",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "朝",
+     "r": "あさ"
+    },
+    {
+     "a": "見",
+     "r": "み"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000133",
+   "pid": "aozora",
+   "pages": [],
+   "no": 130,
+   "maki": "蓮の花船",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "鶯に朝寒からぬ京の山おち椿ふむ人むつまじき",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000134",
+   "pid": "aozora",
+   "pages": [],
+   "no": 131,
+   "maki": "蓮の花船",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "道たま／＼蓮月が庵のあとに出でぬ梅に相行く西の京の山",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000135",
+   "pid": "aozora",
+   "pages": [],
+   "no": 132,
+   "maki": "蓮の花船",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "君が前に李青蓮説くこの子ならずよき墨なきを梅にかこつな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000136",
+   "pid": "aozora",
+   "pages": [],
+   "no": 133,
+   "maki": "蓮の花船",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "あるときはねたしと見たる友の髪に香の煙のはひかかるかな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000137",
+   "pid": "aozora",
+   "pages": [],
+   "no": 134,
+   "maki": "蓮の花船",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "わが春の二十姿と打ぞ見ぬ底くれなゐのうす色牡丹",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "二十姿",
+     "r": "はたちすがた"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000138",
+   "pid": "aozora",
+   "pages": [],
+   "no": 135,
+   "maki": "蓮の花船",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "春はただ盃にこそ注ぐべけれ智慧あり顔の木蓮や花",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "注",
+     "r": "つ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000139",
+   "pid": "aozora",
+   "pages": [],
+   "no": 136,
+   "maki": "蓮の花船",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "さはいへど君が昨日の恋がたりひだり枕の切なき夜半よ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "昨日",
+     "r": "きのふ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000140",
+   "pid": "aozora",
+   "pages": [],
+   "no": 137,
+   "maki": "蓮の花船",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "人そぞろ宵の羽織の肩うらへかきしは歌か芙蓉といふ文字",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000141",
+   "pid": "aozora",
+   "pages": [],
+   "no": 138,
+   "maki": "蓮の花船",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "琴の上に梅の実おつる宿の昼よちかき清水に歌ずする君",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000142",
+   "pid": "aozora",
+   "pages": [],
+   "no": 139,
+   "maki": "蓮の花船",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "うたたねの君がかたへの旅づつみ恋の詩集の古きあたらしき",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000143",
+   "pid": "aozora",
+   "pages": [],
+   "no": 140,
+   "maki": "蓮の花船",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "戸に倚りて菖蒲売る子がひたひ髪にかかる薄靄にほひある朝",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "菖蒲",
+     "r": "あやめ"
+    },
+    {
+     "a": "売",
+     "r": "う"
+    },
+    {
+     "a": "薄靄",
+     "r": "うすもや"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000144",
+   "pid": "aozora",
+   "pages": [],
+   "no": 141,
+   "maki": "蓮の花船",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "五月雨もむかしに遠き山の庵通夜する人に卯の花いけぬ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "五月雨",
+     "r": "さみだれ"
+    },
+    {
+     "a": "通夜",
+     "r": "つや"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000145",
+   "pid": "aozora",
+   "pages": [],
+   "no": 142,
+   "maki": "蓮の花船",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "四十八寺そのひと寺の鐘なりぬ今し江の北雨雲ひくき",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "寺",
+     "r": "じ"
+    },
+    {
+     "a": "寺",
+     "r": "てら"
+    },
+    {
+     "a": "雨雲",
+     "r": "あまぐも"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000146",
+   "pid": "aozora",
+   "pages": [],
+   "no": 143,
+   "maki": "蓮の花船",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "人の子にかせしは罪かわがかひな白きは神になどゆづるべき",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000147",
+   "pid": "aozora",
+   "pages": [],
+   "no": 144,
+   "maki": "蓮の花船",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ふりかへり許したまへの袖だたみ闇くる風に春ときめきぬ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "闇",
+     "r": "やみ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000148",
+   "pid": "aozora",
+   "pages": [],
+   "no": 145,
+   "maki": "蓮の花船",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "夕ふるはなさけの雨よ旅の君ちか道とはで宿とりたまへ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000149",
+   "pid": "aozora",
+   "pages": [],
+   "no": 146,
+   "maki": "蓮の花船",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "巌をはなれ谿をくだりて躑躅をりて都の絵師と水に別れぬ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "巌",
+     "r": "いは"
+    },
+    {
+     "a": "谿",
+     "r": "たに"
+    },
+    {
+     "a": "躑躅",
+     "r": "つゝじ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000150",
+   "pid": "aozora",
+   "pages": [],
+   "no": 147,
+   "maki": "蓮の花船",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "春の日を恋に誰れ倚るしら壁ぞ憂きは旅の子藤たそがるる",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000151",
+   "pid": "aozora",
+   "pages": [],
+   "no": 148,
+   "maki": "蓮の花船",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "油のあと島田のかたと今日知りし壁に李の花ちりかかる",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "油",
+     "r": "あぶら"
+    },
+    {
+     "a": "今日",
+     "r": "けふ"
+    },
+    {
+     "a": "李",
+     "r": "すもゝ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000152",
+   "pid": "aozora",
+   "pages": [],
+   "no": 149,
+   "maki": "蓮の花船",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "うなじ手にひくきささやき藤の朝をよしなやこの子行くは旅の君",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000153",
+   "pid": "aozora",
+   "pages": [],
+   "no": 150,
+   "maki": "蓮の花船",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "まどひなくて経ずする我と見たまふか下品の仏上品の仏",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "下品",
+     "r": "げぼん"
+    },
+    {
+     "a": "仏",
+     "r": "ほとけ"
+    },
+    {
+     "a": "上品",
+     "r": "じやうぼん"
+    },
+    {
+     "a": "仏",
+     "r": "ほとけ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000154",
+   "pid": "aozora",
+   "pages": [],
+   "no": 151,
+   "maki": "蓮の花船",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ながしつる四つの笹舟紅梅を載せしがことにおくれて往きぬ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "笹舟",
+     "r": "さゝぶね"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000155",
+   "pid": "aozora",
+   "pages": [],
+   "no": 152,
+   "maki": "蓮の花船",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "奥の室のうらめづらしき初声に血の気のぼりし面まだ若き",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "室",
+     "r": "ま"
+    },
+    {
+     "a": "初声",
+     "r": "うぶごゑ"
+    },
+    {
+     "a": "面",
+     "r": "おも"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000156",
+   "pid": "aozora",
+   "pages": [],
+   "no": 153,
+   "maki": "蓮の花船",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "人の歌をくちずさみつつ夕よる柱つめたき秋の雨かな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000157",
+   "pid": "aozora",
+   "pages": [],
+   "no": 154,
+   "maki": "蓮の花船",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "小百合さく小草がなかに君まてば野末にほひて虹あらはれぬ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000158",
+   "pid": "aozora",
+   "pages": [],
+   "no": 155,
+   "maki": "蓮の花船",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "かしこしといなみにいひて我とこそその山坂を御手に倚らざりし",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000159",
+   "pid": "aozora",
+   "pages": [],
+   "no": 156,
+   "maki": "蓮の花船",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "鳥辺野は御親の御墓あるところ清水坂に歌はなかりき",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "清水坂",
+     "r": "きよみづざか"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000160",
+   "pid": "aozora",
+   "pages": [],
+   "no": 157,
+   "maki": "蓮の花船",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "御親まつる墓のしら梅中に白く熊笹小笹たそがれそめぬ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "中",
+     "r": "なか"
+    },
+    {
+     "a": "熊笹",
+     "r": "くまざさ"
+    },
+    {
+     "a": "小笹",
+     "r": "をざさ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000161",
+   "pid": "aozora",
+   "pages": [],
+   "no": 158,
+   "maki": "蓮の花船",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "男きよし載するに僧のうらわかき月にくらしの蓮の花船",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "男",
+     "r": "をとこ"
+    },
+    {
+     "a": "蓮",
+     "r": "はす"
+    },
+    {
+     "a": "花船",
+     "r": "はなぶね"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000162",
+   "pid": "aozora",
+   "pages": [],
+   "no": 159,
+   "maki": "蓮の花船",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "経にわかき僧のみこゑの片明り月の蓮船兄こぎかへる",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "片明",
+     "r": "かたあか"
+    },
+    {
+     "a": "蓮船",
+     "r": "はすぶね"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000163",
+   "pid": "aozora",
+   "pages": [],
+   "no": 160,
+   "maki": "蓮の花船",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "浮葉きるとぬれし袂の紅のしづく蓮にそそぎてなさけ教へむ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "紅",
+     "r": "あけ"
+    },
+    {
+     "a": "蓮",
+     "r": "はす"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000164",
+   "pid": "aozora",
+   "pages": [],
+   "no": 161,
+   "maki": "蓮の花船",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "こころみにわかき唇ふれて見れば冷かなるよしら蓮の露",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000165",
+   "pid": "aozora",
+   "pages": [],
+   "no": 162,
+   "maki": "蓮の花船",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "明くる夜の河はばひろき嵯峨の欄きぬ水色の二人の夏よ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "欄",
+     "r": "らん"
+    },
+    {
+     "a": "二人",
+     "r": "ふたり"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000166",
+   "pid": "aozora",
+   "pages": [],
+   "no": 163,
+   "maki": "蓮の花船",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "藻の花のしろきを摘むと山みづに文がら濡ぢぬうすものの袖",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "濡",
+     "r": "ひ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000167",
+   "pid": "aozora",
+   "pages": [],
+   "no": 164,
+   "maki": "蓮の花船",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "牛の子を木かげに立たせ絵にうつす君がゆかたに柿の花ちる",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000168",
+   "pid": "aozora",
+   "pages": [],
+   "no": 165,
+   "maki": "蓮の花船",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "誰が筆に染めし扇ぞ去年までは白きをめでし君にやはあらぬ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "去年",
+     "r": "こぞ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000169",
+   "pid": "aozora",
+   "pages": [],
+   "no": 166,
+   "maki": "蓮の花船",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "おもざしの似たるにまたもまどひけりたはぶれますよ恋の神々",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "神々",
+     "r": "かみ／″＼"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000170",
+   "pid": "aozora",
+   "pages": [],
+   "no": 167,
+   "maki": "蓮の花船",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "五月雨に築土くづれし鳥羽殿のいぬゐの池におもだかさきぬ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "築土",
+     "r": "ついぢ"
+    },
+    {
+     "a": "鳥羽殿",
+     "r": "とばどの"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000171",
+   "pid": "aozora",
+   "pages": [],
+   "no": 168,
+   "maki": "蓮の花船",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "つばくらの羽にしたたる春雨をうけてなでむかわが朝寝髪",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "羽",
+     "r": "はね"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000172",
+   "pid": "aozora",
+   "pages": [],
+   "no": 169,
+   "maki": "蓮の花船",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "しら菊を折りてゑまひし朝すがた垣間みしつと人の書きこし",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000173",
+   "pid": "aozora",
+   "pages": [],
+   "no": 170,
+   "maki": "蓮の花船",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "八つ口をむらさき緒もて我れとめじひかばあたへむ三尺の袖",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000174",
+   "pid": "aozora",
+   "pages": [],
+   "no": 171,
+   "maki": "蓮の花船",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "春かぜに桜花ちる層塔のゆふべを鳩の羽に歌そめむ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "層塔",
+     "r": "そうたふ"
+    },
+    {
+     "a": "羽",
+     "r": "は"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000175",
+   "pid": "aozora",
+   "pages": [],
+   "no": 172,
+   "maki": "蓮の花船",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "憎からぬねたみもつ子とききし子の垣の山吹歌うて過ぎぬ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000176",
+   "pid": "aozora",
+   "pages": [],
+   "no": 173,
+   "maki": "蓮の花船",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "おばしまのその片袖ぞおもかりし鞍馬を西へ流れにし霞",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000177",
+   "pid": "aozora",
+   "pages": [],
+   "no": 174,
+   "maki": "蓮の花船",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ひとたびは神より更ににほひ高き朝をつつみし練の下襲",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "練",
+     "r": "ねり"
+    },
+    {
+     "a": "下襲",
+     "r": "したがさね"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000178",
+   "pid": "aozora",
+   "pages": [],
+   "no": 175,
+   "maki": "白百合",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "月の夜の蓮のおばしま君うつくしうら葉の御歌わすれはせずよ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "蓮",
+     "r": "はす"
+    },
+    {
+     "a": "御歌",
+     "r": "みうた"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000179",
+   "pid": "aozora",
+   "pages": [],
+   "no": 176,
+   "maki": "白百合",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "たけの髪をとめ二人に月うすき今宵しら蓮色まどはずや",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "二人",
+     "r": "ふたり"
+    },
+    {
+     "a": "蓮",
+     "r": "はす"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000180",
+   "pid": "aozora",
+   "pages": [],
+   "no": 177,
+   "maki": "白百合",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "荷葉なかば誰にゆるすの上の御句ぞ御袖片取るわかき師の君",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "荷葉",
+     "r": "はす"
+    },
+    {
+     "a": "上",
+     "r": "かみ"
+    },
+    {
+     "a": "御句",
+     "r": "みく"
+    },
+    {
+     "a": "御袖",
+     "r": "みそで"
+    },
+    {
+     "a": "片取",
+     "r": "かたと"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000181",
+   "pid": "aozora",
+   "pages": [],
+   "no": 178,
+   "maki": "白百合",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "おもひおもふ今のこころに分ち分かず君やしら萩われやしろ百合",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000182",
+   "pid": "aozora",
+   "pages": [],
+   "no": 179,
+   "maki": "白百合",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "いづれ君ふるさと遠き人の世ぞと御手はなちしは昨日の夕",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "昨日",
+     "r": "きのふ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000183",
+   "pid": "aozora",
+   "pages": [],
+   "no": 180,
+   "maki": "白百合",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "三たりをば世にうらぶれしはらからとわれ先づ云ひぬ西の京の宿",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000184",
+   "pid": "aozora",
+   "pages": [],
+   "no": 181,
+   "maki": "白百合",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "今宵まくら神にゆづらぬやは手なりたがはせまさじ白百合の夢",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "今宵",
+     "r": "こよひ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000185",
+   "pid": "aozora",
+   "pages": [],
+   "no": 182,
+   "maki": "白百合",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "夢にせめてせめてと思ひその神に小百合の露の歌ささやきぬ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000186",
+   "pid": "aozora",
+   "pages": [],
+   "no": 183,
+   "maki": "白百合",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "次のまのあま戸そとくるわれをよびて秋の夜いかに長きみぢかき",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000187",
+   "pid": "aozora",
+   "pages": [],
+   "no": 184,
+   "maki": "白百合",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "友のあしのつめたかりきと旅の朝わかきわが師に心なくいひぬ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000188",
+   "pid": "aozora",
+   "pages": [],
+   "no": 185,
+   "maki": "白百合",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ひとまおきてをりをりもれし君がいきその夜しら梅だくと夢みし",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000189",
+   "pid": "aozora",
+   "pages": [],
+   "no": 186,
+   "maki": "白百合",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "いはず聴かずただうなづきて別れけりその日は六日二人と一人",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "二人",
+     "r": "ふたり"
+    },
+    {
+     "a": "一人",
+     "r": "ひとり"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000190",
+   "pid": "aozora",
+   "pages": [],
+   "no": 187,
+   "maki": "白百合",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "もろ羽かはし掩ひしそれも甲斐なかりきうつくしの友西の京の秋",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000191",
+   "pid": "aozora",
+   "pages": [],
+   "no": 188,
+   "maki": "白百合",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "星となりて逢はむそれまで思ひ出でな一つふすまに聞きし秋の声",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000192",
+   "pid": "aozora",
+   "pages": [],
+   "no": 189,
+   "maki": "白百合",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "人の世に才秀でたるわが友の名の末かなし今日秋くれぬ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "今日",
+     "r": "けふ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000193",
+   "pid": "aozora",
+   "pages": [],
+   "no": 190,
+   "maki": "白百合",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "星の子のあまりによわし袂あげて魔にも鬼にも勝たむと云へな",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "勝",
+     "r": "か"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000194",
+   "pid": "aozora",
+   "pages": [],
+   "no": 191,
+   "maki": "白百合",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "百合の花わざと魔の手に折らせおきて拾ひてだかむ神のこころか",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000195",
+   "pid": "aozora",
+   "pages": [],
+   "no": 192,
+   "maki": "白百合",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "しろ百合はそれその人の高きおもひおもわは艶ふ紅芙蓉とこそ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "艶",
+     "r": "にほ"
+    },
+    {
+     "a": "紅芙蓉",
+     "r": "べにふよう"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000196",
+   "pid": "aozora",
+   "pages": [],
+   "no": 193,
+   "maki": "白百合",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "さはいへどそのひと時よまばゆかりき夏の野しめし白百合の花",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000197",
+   "pid": "aozora",
+   "pages": [],
+   "no": 194,
+   "maki": "白百合",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "友は二十ふたつこしたる我身なりふさはずあらじ恋と伝へむ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "二十",
+     "r": "はたち"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000198",
+   "pid": "aozora",
+   "pages": [],
+   "no": 195,
+   "maki": "白百合",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "その血潮ふたりは吐かぬちぎりなりき春を山蓼たづねますな君",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "山蓼",
+     "r": "やまたで"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000199",
+   "pid": "aozora",
+   "pages": [],
+   "no": 196,
+   "maki": "白百合",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "秋を三人椎の実なげし鯉やいづこ池の朝かぜ手と手つめたき",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "三人",
+     "r": "みたり"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000200",
+   "pid": "aozora",
+   "pages": [],
+   "no": 197,
+   "maki": "白百合",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "かの空よ若狭は北よわれ載せて行く雲なきか西の京の山",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000201",
+   "pid": "aozora",
+   "pages": [],
+   "no": 198,
+   "maki": "白百合",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ひと花はみづから渓にもとめきませ若狭の雪に堪へむ紅",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "紅",
+     "r": "くれなゐ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000202",
+   "pid": "aozora",
+   "pages": [],
+   "no": 199,
+   "maki": "白百合",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "『筆のあとに山居のさまを知りたまへ』人への人の文さりげなき",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "山居",
+     "r": "やまゐ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000203",
+   "pid": "aozora",
+   "pages": [],
+   "no": 200,
+   "maki": "白百合",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "京はもののつらきところと書きさして見おろしませる加茂の河しろき",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000204",
+   "pid": "aozora",
+   "pages": [],
+   "no": 201,
+   "maki": "白百合",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "恨みまつる湯におりしまの一人居を歌なかりきの君へだてあり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "一人居",
+     "r": "ひとりゐ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000205",
+   "pid": "aozora",
+   "pages": [],
+   "no": 202,
+   "maki": "白百合",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "秋の衾あしたわびし身うらめしきつめたきためし春の京に得ぬ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "衾",
+     "r": "ふすま"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000206",
+   "pid": "aozora",
+   "pages": [],
+   "no": 203,
+   "maki": "白百合",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "わすれては谿へおりますうしろ影ほそき御肩に春の日よわき",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "御肩",
+     "r": "みかた"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000207",
+   "pid": "aozora",
+   "pages": [],
+   "no": 204,
+   "maki": "白百合",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "京の鐘この日このとき我れあらずこの日このとき人と人を泣きぬ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000208",
+   "pid": "aozora",
+   "pages": [],
+   "no": 205,
+   "maki": "白百合",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "琵琶の海山ごえ行かむいざと云ひし秋よ三人よ人そぞろなりし",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "三人",
+     "r": "みたり"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000209",
+   "pid": "aozora",
+   "pages": [],
+   "no": 206,
+   "maki": "白百合",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "京の水の深み見おろし秋を人の裂きし小指の血のあと寒き",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "小指",
+     "r": "をゆび"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000210",
+   "pid": "aozora",
+   "pages": [],
+   "no": 207,
+   "maki": "白百合",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "山蓼のそれよりふかきくれなゐは梅よはばかれ神にとがおはむ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000211",
+   "pid": "aozora",
+   "pages": [],
+   "no": 208,
+   "maki": "白百合",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "魔のまへに理想くだきしよわき子と友のゆふべをゆびさしますな",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "理想",
+     "r": "おもひ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000212",
+   "pid": "aozora",
+   "pages": [],
+   "no": 209,
+   "maki": "白百合",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "魔のわざを神のさだめと眼を閉ぢし友の片手の花あやぶみぬ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000213",
+   "pid": "aozora",
+   "pages": [],
+   "no": 210,
+   "maki": "白百合",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "歌をかぞへその子この子にならふなのまだ寸ならぬ白百合の芽よ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "寸",
+     "r": "すん"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000214",
+   "pid": "aozora",
+   "pages": [],
+   "no": 211,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "露にさめて瞳もたぐる野の色よ夢のただちの紫の虹",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "瞳",
+     "r": "ひとみ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000215",
+   "pid": "aozora",
+   "pages": [],
+   "no": 212,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "やれ壁にチチアンが名はつらかりき湧く酒がめを夕に秘めな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000216",
+   "pid": "aozora",
+   "pages": [],
+   "no": 213,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "何となきただ一ひらの雲に見ぬみちびきさとし聖歌のにほひ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "聖歌",
+     "r": "せいか"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000217",
+   "pid": "aozora",
+   "pages": [],
+   "no": 214,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "神にそむきふたたびここに君と見ぬ別れの別れさいへ乱れじ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000218",
+   "pid": "aozora",
+   "pages": [],
+   "no": 215,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "淵の水になげし聖書を又もひろひ空仰ぎ泣くわれまどひの子",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "空",
+     "r": "そら"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000219",
+   "pid": "aozora",
+   "pages": [],
+   "no": 216,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "聖書だく子人の御親の墓に伏して弥勒の名をば夕に喚びぬ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "御親",
+     "r": "みおや"
+    },
+    {
+     "a": "弥勒",
+     "r": "みろく"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000220",
+   "pid": "aozora",
+   "pages": [],
+   "no": 217,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "神ここに力をわびぬとき紅のにほひ興がるめしひの少女",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "紅",
+     "r": "べに"
+    },
+    {
+     "a": "興",
+     "r": "きよう"
+    },
+    {
+     "a": "少女",
+     "r": "をとめ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000221",
+   "pid": "aozora",
+   "pages": [],
+   "no": 218,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "痩せにたれかひなもる血ぞ猶わかき罪を泣く子と神よ見ますな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000222",
+   "pid": "aozora",
+   "pages": [],
+   "no": 219,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "おもはずや夢ねがはずや若人よもゆるくちびる君に映らずや",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "若人",
+     "r": "わかうど"
+    },
+    {
+     "a": "映",
+     "r": "うつ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000223",
+   "pid": "aozora",
+   "pages": [],
+   "no": 220,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "君さらば巫山の春のひと夜妻またの世までは忘れゐたまへ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "巫山",
+     "r": "ふざ"
+    },
+    {
+     "a": "夜妻",
+     "r": "よづま"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000224",
+   "pid": "aozora",
+   "pages": [],
+   "no": 221,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "あまきにがき味うたがひぬ我を見てわかきひじりの流しにし涙",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000225",
+   "pid": "aozora",
+   "pages": [],
+   "no": 222,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "歌に名は相問はざりきさいへ一夜ゑにしのほかの一夜とおぼすな",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "相",
+     "r": "あひ"
+    },
+    {
+     "a": "問",
+     "r": "と"
+    },
+    {
+     "a": "一夜",
+     "r": "ひとよ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000226",
+   "pid": "aozora",
+   "pages": [],
+   "no": 223,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "水の香をきぬにおほひぬわかき神草には見えぬ風のゆるぎよ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000227",
+   "pid": "aozora",
+   "pages": [],
+   "no": 224,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ゆく水のざれ言きかす神の笑まひ御歯あざやかに花の夜あけぬ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "御歯",
+     "r": "みは"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000228",
+   "pid": "aozora",
+   "pages": [],
+   "no": 225,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "百合にやる天の小蝶のみづいろの翅にしつけの糸をとる神",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "天",
+     "r": "あめ"
+    },
+    {
+     "a": "翅",
+     "r": "はね"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000229",
+   "pid": "aozora",
+   "pages": [],
+   "no": 226,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ひとつ血の胸くれなゐの春のいのちひれふすかをり神もとめよる",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000230",
+   "pid": "aozora",
+   "pages": [],
+   "no": 227,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "わがいだくおもかげ君はそこに見む春のゆふべの黄雲のちぎれ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "黄雲",
+     "r": "きぐも"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000231",
+   "pid": "aozora",
+   "pages": [],
+   "no": 228,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "むねの清水あふれてつひに濁りけり君も罪の子我も罪の子",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000232",
+   "pid": "aozora",
+   "pages": [],
+   "no": 229,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "うらわかき僧よびさます春の窓ふり袖ふれて経くづれきぬ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000233",
+   "pid": "aozora",
+   "pages": [],
+   "no": 230,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "今日を知らず智慧の小石は問はでありき星のおきてと別れにし朝",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "今日",
+     "r": "けふ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000234",
+   "pid": "aozora",
+   "pages": [],
+   "no": 231,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "春にがき貝多羅葉の名をききて堂の夕日に友の世泣きぬ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "貝多羅葉",
+     "r": "ばいたらえふ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000235",
+   "pid": "aozora",
+   "pages": [],
+   "no": 232,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ふた月を歌にただある三本樹加茂川千鳥恋はなき子ぞ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "本",
+     "r": "ぼん"
+    },
+    {
+     "a": "樹",
+     "r": "ぎ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000236",
+   "pid": "aozora",
+   "pages": [],
+   "no": 233,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "わかき子が乳の香まじる春雨に上羽を染めむ白き鳩われ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "乳",
+     "r": "ちゝ"
+    },
+    {
+     "a": "上羽",
+     "r": "うはば"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000237",
+   "pid": "aozora",
+   "pages": [],
+   "no": 234,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "夕ぐれを花にかくるる小狐のにこ毛にひびく北嵯峨の鐘",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000238",
+   "pid": "aozora",
+   "pages": [],
+   "no": 235,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "見しはそれ緑の夢のほそき夢ゆるせ旅人かたり草なき",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000239",
+   "pid": "aozora",
+   "pages": [],
+   "no": 236,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "胸と胸とおもひことなる松のかぜ友の頬を吹きぬ我頬を吹きぬ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000240",
+   "pid": "aozora",
+   "pages": [],
+   "no": 237,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "野茨をりて髪にもかざし手にもとり永き日野辺に君まちわびぬ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "野茨",
+     "r": "のばら"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000241",
+   "pid": "aozora",
+   "pages": [],
+   "no": 238,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "春を説くなその朝かぜにほころびし袂だく子に君こころなき",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000242",
+   "pid": "aozora",
+   "pages": [],
+   "no": 239,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "春をおなじ急瀬さばしる若鮎の釣緒の細緒くれなゐならぬ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "急瀬",
+     "r": "はやせ"
+    },
+    {
+     "a": "釣緒",
+     "r": "つりを"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000243",
+   "pid": "aozora",
+   "pages": [],
+   "no": 240,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "みなぞこにけぶる黒髪ぬしや誰れ緋鯉のせなに梅の花ちる",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000244",
+   "pid": "aozora",
+   "pages": [],
+   "no": 241,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "秋を人のよりし柱にとがめあり梅にことかるきぬぎぬの歌",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000245",
+   "pid": "aozora",
+   "pages": [],
+   "no": 242,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "京の山のこぞめしら梅人ふたりおなじ夢みし春と知りたまへ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000246",
+   "pid": "aozora",
+   "pages": [],
+   "no": 243,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "なつかしの湯の香梅が香山の宿の板戸によりて人まちし闇",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000247",
+   "pid": "aozora",
+   "pages": [],
+   "no": 244,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "詞にも歌にもなさじわがおもひその日そのとき胸より胸に",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000248",
+   "pid": "aozora",
+   "pages": [],
+   "no": 245,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "歌にねて昨夜梶の葉の作者見ぬうつくしかりき黒髪の色",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "昨夜",
+     "r": "よべ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000249",
+   "pid": "aozora",
+   "pages": [],
+   "no": 246,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "下京や紅屋が門をくぐりたる男かはゆし春の夜の月",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "下京",
+     "r": "しもぎやう"
+    },
+    {
+     "a": "紅屋",
+     "r": "べにや"
+    },
+    {
+     "a": "門",
+     "r": "かど"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000250",
+   "pid": "aozora",
+   "pages": [],
+   "no": 247,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "枝折戸あり紅梅さけり水ゆけり立つ子われより笑みうつくしき",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000251",
+   "pid": "aozora",
+   "pages": [],
+   "no": 248,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "しら梅は袖に湯の香は下のきぬにかりそめながら君さらばさらば",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000252",
+   "pid": "aozora",
+   "pages": [],
+   "no": 249,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "二十とせの我世の幸はうすかりきせめて今見る夢やすかれな",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "二十",
+     "r": "はた"
+    },
+    {
+     "a": "幸",
+     "r": "さち"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000253",
+   "pid": "aozora",
+   "pages": [],
+   "no": 250,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "二十とせのうすきいのちのひびきありと浪華の夏の歌に泣きし君",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "二十",
+     "r": "はた"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000254",
+   "pid": "aozora",
+   "pages": [],
+   "no": 251,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "かづくきぬにその間の床の梅ぞにくき昔がたりを夢に寄する君",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "間",
+     "r": "ま"
+    },
+    {
+     "a": "床",
+     "r": "とこ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000255",
+   "pid": "aozora",
+   "pages": [],
+   "no": 252,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "それ終に夢にはあらぬそら語り中のともしびいつ君きえし",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "中",
+     "r": "なか"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000256",
+   "pid": "aozora",
+   "pages": [],
+   "no": 253,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "君ゆくとその夕ぐれに二人して柱にそめし白萩の歌",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000257",
+   "pid": "aozora",
+   "pages": [],
+   "no": 254,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "なさけあせし文みて病みておとろへてかくても人を猶恋ひわたる",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000258",
+   "pid": "aozora",
+   "pages": [],
+   "no": 255,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "夜の神のあともとめよるしら綾の鬢の香朝の春雨の宿",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000259",
+   "pid": "aozora",
+   "pages": [],
+   "no": 256,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "その子ここに夕片笑みの二十びと虹のはしらを説くに隠れぬ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "夕片笑",
+     "r": "ゆふかたゑ"
+    },
+    {
+     "a": "二十",
+     "r": "はたち"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000260",
+   "pid": "aozora",
+   "pages": [],
+   "no": 257,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "このあした君があげたるみどり子のやがて得む恋うつくしかれな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000261",
+   "pid": "aozora",
+   "pages": [],
+   "no": 258,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "恋の神にむくいまつりし今日の歌ゑにしの神はいつ受けまさむ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000262",
+   "pid": "aozora",
+   "pages": [],
+   "no": 259,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "かくてなほあくがれますか真善美わが手の花はくれなゐよ君",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000263",
+   "pid": "aozora",
+   "pages": [],
+   "no": 260,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "くろ髪の千すぢの髪のみだれ髪かつおもひみだれおもひみだるる",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000264",
+   "pid": "aozora",
+   "pages": [],
+   "no": 261,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "そよ理想おもひにうすき身なればか朝の露草人ねたかりし",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "理想",
+     "r": "りさう"
+    },
+    {
+     "a": "露草",
+     "r": "つゆくさ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000265",
+   "pid": "aozora",
+   "pages": [],
+   "no": 262,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "とどめあへぬそぞろ心は人しらむくづれし牡丹さぎぬに紅き",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000266",
+   "pid": "aozora",
+   "pages": [],
+   "no": 263,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "『あらざりき』そは後の人のつぶやきし我には永久のうつくしの夢",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "後",
+     "r": "のち"
+    },
+    {
+     "a": "永久",
+     "r": "とは"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000267",
+   "pid": "aozora",
+   "pages": [],
+   "no": 264,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "行く春の一絃一柱におもひありさいへ火かげのわが髪ながき",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "一絃",
+     "r": "ひとを"
+    },
+    {
+     "a": "一柱",
+     "r": "ひとぢ"
+    },
+    {
+     "a": "火",
+     "r": "ほ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000268",
+   "pid": "aozora",
+   "pages": [],
+   "no": 265,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "のらす神あふぎ見するに瞼おもきわが世の闇の夢の小夜中",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "瞼",
+     "r": "まぶた"
+    },
+    {
+     "a": "小夜中",
+     "r": "さよなか"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000269",
+   "pid": "aozora",
+   "pages": [],
+   "no": 266,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "そのわかき羊は誰に似たるぞの瞳の御色野は夕なりし",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "瞳",
+     "r": "ひとみ"
+    },
+    {
+     "a": "御色",
+     "r": "みいろ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000270",
+   "pid": "aozora",
+   "pages": [],
+   "no": 267,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "あえかなる白きうすものまなじりの火かげの栄の詛はしき君",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "栄",
+     "r": "はえ"
+    },
+    {
+     "a": "詛",
+     "r": "のろ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000271",
+   "pid": "aozora",
+   "pages": [],
+   "no": 268,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "紅梅にそぞろゆきたる京の山叔母の尼すむ寺は訪はざりし",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000272",
+   "pid": "aozora",
+   "pages": [],
+   "no": 269,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "くさぐさの色ある花によそはれし棺のなかの友うつくしき",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "棺",
+     "r": "ひつぎ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000273",
+   "pid": "aozora",
+   "pages": [],
+   "no": 270,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "五つとせは夢にあらずよみそなはせ春に色なき草ながき里",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000274",
+   "pid": "aozora",
+   "pages": [],
+   "no": 271,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "すげ笠にあるべき歌と強ひゆきぬ若葉よ薫れ生駒葛城",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "薫",
+     "r": "かを"
+    },
+    {
+     "a": "生駒",
+     "r": "いこま"
+    },
+    {
+     "a": "葛城",
+     "r": "かつらぎ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000275",
+   "pid": "aozora",
+   "pages": [],
+   "no": 272,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "裾たるる紫ひくき根なし雲牡丹が夢の真昼しづけき",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "真昼",
+     "r": "まひる"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000276",
+   "pid": "aozora",
+   "pages": [],
+   "no": 273,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "紫のわが世の恋のあさぼらけ諸手のかをり追風ながき",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "諸手",
+     "r": "もろで"
+    },
+    {
+     "a": "追風",
+     "r": "おひかぜ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000277",
+   "pid": "aozora",
+   "pages": [],
+   "no": 274,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "このおもひ真昼の夢と誰か云ふ酒のかをりのなつかしき春",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000278",
+   "pid": "aozora",
+   "pages": [],
+   "no": 275,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "みどりなるは学びの宮とさす神にいらへまつらで摘む夕すみれ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000279",
+   "pid": "aozora",
+   "pages": [],
+   "no": 276,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "そら鳴りの夜ごとのくせぞ狂ほしき汝よ小琴よ片袖かさむ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "狂",
+     "r": "くる"
+    },
+    {
+     "a": "汝",
+     "r": "なれ"
+    },
+    {
+     "a": "小琴",
+     "r": "をごと"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000280",
+   "pid": "aozora",
+   "pages": [],
+   "no": null,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "（琴に）",
+   "sachu": "",
+   "poems": [],
+   "jo": true
+  },
+  {
+   "id": "midaregami-000281",
+   "pid": "aozora",
+   "pages": [],
+   "no": 277,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ぬしえらばず胸にふれむの行く春の小琴とおぼせ眉やはき君",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000282",
+   "pid": "aozora",
+   "pages": [],
+   "no": null,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "（琴のいらへて）",
+   "sachu": "",
+   "poems": [],
+   "jo": true
+  },
+  {
+   "id": "midaregami-000283",
+   "pid": "aozora",
+   "pages": [],
+   "no": 278,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "去年ゆきし姉の名よびて夕ぐれの戸に立つ人をあはれと思ひぬ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "去年",
+     "r": "こぞ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000284",
+   "pid": "aozora",
+   "pages": [],
+   "no": 279,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "十九のわれすでに菫を白く見し水はやつれぬはかなかるべき",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "十九",
+     "r": "つづ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000285",
+   "pid": "aozora",
+   "pages": [],
+   "no": 280,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ひと年をこの子のすがた絹に成らず画の筆すてて詩にかへし君",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000286",
+   "pid": "aozora",
+   "pages": [],
+   "no": 281,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "白きちりぬ紅きくづれぬ床の牡丹五山の僧の口おそろしき",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "床",
+     "r": "ゆか"
+    },
+    {
+     "a": "山",
+     "r": "ざん"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000287",
+   "pid": "aozora",
+   "pages": [],
+   "no": 282,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "今日の身に我をさそひし中の姉小町のはてを祈れと去にぬ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "中",
+     "r": "なか"
+    },
+    {
+     "a": "小町",
+     "r": "こまち"
+    },
+    {
+     "a": "去",
+     "r": "い"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000288",
+   "pid": "aozora",
+   "pages": [],
+   "no": 283,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "秋もろし春みじかしをまどひなく説く子ありなば我れ道きかむ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000289",
+   "pid": "aozora",
+   "pages": [],
+   "no": 284,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "さそひ入れてさらばと我手はらひます御衣のにほひ闇やはらかき",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "御衣",
+     "r": "みけし"
+    },
+    {
+     "a": "闇",
+     "r": "やみ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000290",
+   "pid": "aozora",
+   "pages": [],
+   "no": 285,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "病みてこもる山の御堂に春くれぬ今日文ながき絵筆とる君",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "今日",
+     "r": "けふ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000291",
+   "pid": "aozora",
+   "pages": [],
+   "no": 286,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "河ぞひの門小雨ふる柳はら二人の一人めす馬しろき",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "門",
+     "r": "かど"
+    },
+    {
+     "a": "二人",
+     "r": "ふたり"
+    },
+    {
+     "a": "一人",
+     "r": "ひとり"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000292",
+   "pid": "aozora",
+   "pages": [],
+   "no": 287,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "歌は斯くよ血ぞゆらぎしと語る友に笑まひを見せしさびしき思",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000293",
+   "pid": "aozora",
+   "pages": [],
+   "no": 288,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "とおもへばぞ垣をこえたる山ひつじとおもへばぞの花よわりなの",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000294",
+   "pid": "aozora",
+   "pages": [],
+   "no": 289,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "庭下駄に水をあやぶむ花あやめ鋏にたらぬ力をわびぬ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "鋏",
+     "r": "はさみ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000295",
+   "pid": "aozora",
+   "pages": [],
+   "no": 290,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "柳ぬれし今朝門すぐる文づかひ青貝ずりのその箱ほそき",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "今朝",
+     "r": "けさ"
+    },
+    {
+     "a": "門",
+     "r": "かど"
+    },
+    {
+     "a": "青貝",
+     "r": "あをがひ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000296",
+   "pid": "aozora",
+   "pages": [],
+   "no": 291,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "『いまさらにそは春せまき御胸なり』われ眼をとぢて御手にすがりぬ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000297",
+   "pid": "aozora",
+   "pages": [],
+   "no": 292,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "その友はもだえのはてに歌を見ぬわれを召す神きぬ薄黒き",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000298",
+   "pid": "aozora",
+   "pages": [],
+   "no": 293,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "そのなさけかけますな君罪の子が狂ひのはてを見むと云ひたまへ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000299",
+   "pid": "aozora",
+   "pages": [],
+   "no": 294,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "いさめますか道ときますかさとしますか宿世のよそに血を召しませな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000300",
+   "pid": "aozora",
+   "pages": [],
+   "no": 295,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "もろかりしはかなかりしと春のうた焚くにこの子の血ぞあまり若き",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000301",
+   "pid": "aozora",
+   "pages": [],
+   "no": 296,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "夏やせの我やねたみの二十妻里居の夏に京を説く君",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "二十妻",
+     "r": "はたちづま"
+    },
+    {
+     "a": "里居",
+     "r": "さとゐ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000302",
+   "pid": "aozora",
+   "pages": [],
+   "no": 297,
+   "maki": "はたち妻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "こもり居に集の歌ぬくねたみ妻五月のやどの二人うつくしき",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "集",
+     "r": "しふ"
+    },
+    {
+     "a": "五月",
+     "r": "さつき"
+    },
+    {
+     "a": "二人",
+     "r": "ふたり"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000303",
+   "pid": "aozora",
+   "pages": [],
+   "no": 298,
+   "maki": "舞姫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "人に侍る大堰の水のおばしまにわかきうれひの袂の長き",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "大堰",
+     "r": "おほゐ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000304",
+   "pid": "aozora",
+   "pages": [],
+   "no": 299,
+   "maki": "舞姫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "くれなゐの扇に惜しき涙なりき嵯峨のみじか夜暁寒かりし",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "夜暁",
+     "r": "あけ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000305",
+   "pid": "aozora",
+   "pages": [],
+   "no": 300,
+   "maki": "舞姫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "朝を細き雨に小鼓おほひゆくだんだら染の袖ながき君",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "小鼓",
+     "r": "こつづみ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000306",
+   "pid": "aozora",
+   "pages": [],
+   "no": 301,
+   "maki": "舞姫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "人にそひて今日京の子の歌をきく祇園清水春の山まろき",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "今日",
+     "r": "けふ"
+    },
+    {
+     "a": "祇園",
+     "r": "ぎをん"
+    },
+    {
+     "a": "清水",
+     "r": "きよみづ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000307",
+   "pid": "aozora",
+   "pages": [],
+   "no": 302,
+   "maki": "舞姫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "くれなゐの襟にはさめる舞扇酔のすさびのあととめられな",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "舞扇",
+     "r": "まひあふぎ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000308",
+   "pid": "aozora",
+   "pages": [],
+   "no": 303,
+   "maki": "舞姫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "桃われの前髪ゆへるくみ紐やときいろなるがことたらぬかな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000309",
+   "pid": "aozora",
+   "pages": [],
+   "no": 304,
+   "maki": "舞姫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "浅黄地に扇ながしの都染九尺のしごき袖よりも長き",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "都染",
+     "r": "みやこぞめ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000310",
+   "pid": "aozora",
+   "pages": [],
+   "no": 305,
+   "maki": "舞姫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "四条橋おしろいあつき舞姫のぬかささやかに撲つ夕あられ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "橋",
+     "r": "ばし"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000311",
+   "pid": "aozora",
+   "pages": [],
+   "no": 306,
+   "maki": "舞姫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "さしかざす小傘に紅き揚羽蝶小褄とる手に雪ちりかかる",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "小傘",
+     "r": "をがさ"
+    },
+    {
+     "a": "揚羽蝶",
+     "r": "あげはてふ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000312",
+   "pid": "aozora",
+   "pages": [],
+   "no": 307,
+   "maki": "舞姫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "舞姫のかりね姿ようつくしき朝京くだる春の川舟",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "京",
+     "r": "きやう"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000313",
+   "pid": "aozora",
+   "pages": [],
+   "no": 308,
+   "maki": "舞姫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "紅梅に金糸のぬひの菊づくし五枚かさねし襟なつかしき",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000314",
+   "pid": "aozora",
+   "pages": [],
+   "no": 309,
+   "maki": "舞姫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "舞ぎぬの袂に声をおほひけりここのみ闇の春の廻廊",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "廻廊",
+     "r": "わたどの"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000315",
+   "pid": "aozora",
+   "pages": [],
+   "no": 310,
+   "maki": "舞姫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "まこと人を打たれむものかふりあげし袂このまま夜をなに舞はむ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000316",
+   "pid": "aozora",
+   "pages": [],
+   "no": 311,
+   "maki": "舞姫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "三たび四たびおなじしらべの京の四季おとどの君をつらしと思ひぬ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000317",
+   "pid": "aozora",
+   "pages": [],
+   "no": 312,
+   "maki": "舞姫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "あてびとの御膝へおぞやおとしけり行幸源氏の巻絵の小櫛",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "御膝",
+     "r": "みひざ"
+    },
+    {
+     "a": "行幸源氏",
+     "r": "みゆきげんじ"
+    },
+    {
+     "a": "巻絵",
+     "r": "まきゑ"
+    },
+    {
+     "a": "小櫛",
+     "r": "をぐし"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000318",
+   "pid": "aozora",
+   "pages": [],
+   "no": 313,
+   "maki": "舞姫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "しろがねの舞の花櫛おもくしてかへす袂のままならぬかな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000319",
+   "pid": "aozora",
+   "pages": [],
+   "no": 314,
+   "maki": "舞姫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "四とせまへ鼓うつ手にそそがせし涙のぬしに逢はれむ我か",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000320",
+   "pid": "aozora",
+   "pages": [],
+   "no": 315,
+   "maki": "舞姫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "おほつづみ抱へかねたるその頃よ美き衣きるをうれしと思ひし",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "抱",
+     "r": "かゝ"
+    },
+    {
+     "a": "美",
+     "r": "よ"
+    },
+    {
+     "a": "衣",
+     "r": "きぬ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000321",
+   "pid": "aozora",
+   "pages": [],
+   "no": 316,
+   "maki": "舞姫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "われなれぬ千鳥なく夜の川かぜに鼓拍子をとりて行くまで",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "鼓拍子",
+     "r": "つづみびやうし"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000322",
+   "pid": "aozora",
+   "pages": [],
+   "no": 317,
+   "maki": "舞姫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "いもうとの琴には惜しきおぼろ夜よ京の子こひし鼓のひと手",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000323",
+   "pid": "aozora",
+   "pages": [],
+   "no": 318,
+   "maki": "舞姫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "よそほひし京の子すゑて絹のべて絵の具とく夜を春の雨ふる",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "絹",
+     "r": "きぬ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000324",
+   "pid": "aozora",
+   "pages": [],
+   "no": 319,
+   "maki": "舞姫",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "そのなさけ今日舞姫に強ひますか西の秀才が眉よやつれし",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "舞姫",
+     "r": "まひひめ"
+    },
+    {
+     "a": "強",
+     "r": "し"
+    },
+    {
+     "a": "秀才",
+     "r": "すさい"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000325",
+   "pid": "aozora",
+   "pages": [],
+   "no": 320,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "いとせめてもゆるがままにもえしめよ斯くぞ覚ゆる暮れて行く春",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000326",
+   "pid": "aozora",
+   "pages": [],
+   "no": 321,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "春みじかし何に不滅の命ぞとちからある乳を手にさぐらせぬ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "不滅",
+     "r": "ふめつ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000327",
+   "pid": "aozora",
+   "pages": [],
+   "no": 322,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "夜の室に絵の具かぎよる懸想の子太古の神に春似たらずや",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "夜",
+     "r": "よ"
+    },
+    {
+     "a": "室",
+     "r": "むろ"
+    },
+    {
+     "a": "懸想",
+     "r": "けさう"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000328",
+   "pid": "aozora",
+   "pages": [],
+   "no": 323,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "そのはてにのこるは何と問ふな説くな友よ歌あれ終の十字架",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "終",
+     "r": "つひ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000329",
+   "pid": "aozora",
+   "pages": [],
+   "no": 324,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "わかき子が胸の小琴の音を知るや旅ねの君よたまくらかさむ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "音",
+     "r": "ね"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000330",
+   "pid": "aozora",
+   "pages": [],
+   "no": 325,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "松かげにまたも相見る君とわれゑにしの神をにくしとおぼすな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000331",
+   "pid": "aozora",
+   "pages": [],
+   "no": 326,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "きのふをば千とせの前の世とも思ひ御手なほ肩に有りとも思ふ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000332",
+   "pid": "aozora",
+   "pages": [],
+   "no": 327,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "歌は君酔ひのすさびと墨ひかばさても消ゆべしさても消ぬべし",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000333",
+   "pid": "aozora",
+   "pages": [],
+   "no": 328,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "神よとはにわかきまどひのあやまちとこの子の悔ゆる歌ききますな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000334",
+   "pid": "aozora",
+   "pages": [],
+   "no": 329,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "湯あがりを御風めすなのわが上衣ゑんじむらさき人うつくしき",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "御風",
+     "r": "みかぜ"
+    },
+    {
+     "a": "上衣",
+     "r": "うはぎ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000335",
+   "pid": "aozora",
+   "pages": [],
+   "no": 330,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "さればとておもにうすぎぬかづきなれず春ゆるしませ中の小屏風",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "中",
+     "r": "なか"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000336",
+   "pid": "aozora",
+   "pages": [],
+   "no": 331,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "しら綾に鬢の香しみし夜着の襟そむるに歌のなきにしもあらず",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "夜着",
+     "r": "よぎ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000337",
+   "pid": "aozora",
+   "pages": [],
+   "no": 332,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "夕ぐれの霧のまがひもさとしなりき消えしともしび神うつくしき",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000338",
+   "pid": "aozora",
+   "pages": [],
+   "no": 333,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "もゆる口になにを含まむぬれといひし人のをゆびの血は涸れはてぬ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000339",
+   "pid": "aozora",
+   "pages": [],
+   "no": 334,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "人の子の恋をもとむる唇に毒ある蜜をわれぬらむ願ひ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000340",
+   "pid": "aozora",
+   "pages": [],
+   "no": 335,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ここに三とせ人の名を見ずその詩よまず過すはよわきよわき心なり",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000341",
+   "pid": "aozora",
+   "pages": [],
+   "no": 336,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "梅の渓の靄くれなゐの朝すがた山うつくしき我れうつくしき",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "靄",
+     "r": "もや"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000342",
+   "pid": "aozora",
+   "pages": [],
+   "no": 337,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ぬしや誰れねぶの木かげの釣床の網のめもるる水色のきぬ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "釣床",
+     "r": "つりどこ"
+    },
+    {
+     "a": "網",
+     "r": "あみ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000343",
+   "pid": "aozora",
+   "pages": [],
+   "no": 338,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "歌に声のうつくしかりし旅人の行手の村の桃しろかれな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000344",
+   "pid": "aozora",
+   "pages": [],
+   "no": 339,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "朝の雨につばさしめりし鶯を打たむの袖のさだすぎし君",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000345",
+   "pid": "aozora",
+   "pages": [],
+   "no": 340,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "御手づからの水にうがひしそれよ朝かりし紅筆歌かきてやまむ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "紅筆",
+     "r": "べにふで"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000346",
+   "pid": "aozora",
+   "pages": [],
+   "no": 341,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "春寒のふた日を京の山ごもり梅にふさはぬわが髪の乱れ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "春寒",
+     "r": "はるさむ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000347",
+   "pid": "aozora",
+   "pages": [],
+   "no": 342,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "歌筆を紅にかりたる尖凍てぬ西のみやこの春さむき朝",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "紅",
+     "r": "べに"
+    },
+    {
+     "a": "尖",
+     "r": "さき"
+    },
+    {
+     "a": "凍",
+     "r": "い"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000348",
+   "pid": "aozora",
+   "pages": [],
+   "no": 343,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "春の宵をちひさく撞きて鐘を下りぬ二十七段堂のきざはし",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "段",
+     "r": "だん"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000349",
+   "pid": "aozora",
+   "pages": [],
+   "no": 344,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "手をひたし水は昔にかはらずとさけぶ子の恋われあやぶみぬ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000350",
+   "pid": "aozora",
+   "pages": [],
+   "no": 345,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "病むわれにその子五つのをととなりつたなの笛をあはれと聞く夜",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000351",
+   "pid": "aozora",
+   "pages": [],
+   "no": 346,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "とおもひてぬひし春着の袖うらにうらみの歌は書かさせますな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000352",
+   "pid": "aozora",
+   "pages": [],
+   "no": 347,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "かくて果つる我世さびしと泣くは誰ぞしろ桔梗さく伽藍のうらに",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "伽藍",
+     "r": "がらん"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000353",
+   "pid": "aozora",
+   "pages": [],
+   "no": 348,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "人とわれおなじ十九のおもかげをうつせし水よ石津川の流れ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000354",
+   "pid": "aozora",
+   "pages": [],
+   "no": 349,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "卯の花を小傘にそへて褄とりて五月雨わぶる村はづれかな",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "小傘",
+     "r": "をがさ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000355",
+   "pid": "aozora",
+   "pages": [],
+   "no": 350,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "大御油ひひなの殿にまゐらするわが前髪に桃の花ちる",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "大御油",
+     "r": "おほみあぶら"
+    },
+    {
+     "a": "殿",
+     "r": "との"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000356",
+   "pid": "aozora",
+   "pages": [],
+   "no": 351,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "夏花に多くの恋をゆるせしを神悔い泣くか枯野ふく風",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000357",
+   "pid": "aozora",
+   "pages": [],
+   "no": 352,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "道を云はず後を思はず名を問はずここに恋ひ恋ふ君と我と見る",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000358",
+   "pid": "aozora",
+   "pages": [],
+   "no": 353,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "魔に向ふつるぎの束をにぎるには細き五つの御指と吸ひぬ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "束",
+     "r": "つか"
+    },
+    {
+     "a": "御指",
+     "r": "みゆび"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000359",
+   "pid": "aozora",
+   "pages": [],
+   "no": 354,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "消えむものか歌よむ人の夢とそはそは夢ならむさて消えむものか",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000360",
+   "pid": "aozora",
+   "pages": [],
+   "no": 355,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "恋と云はじそのまぼろしのあまき夢詩人もありき画だくみもありき",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "詩人",
+     "r": "しじん"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000361",
+   "pid": "aozora",
+   "pages": [],
+   "no": 356,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "君さけぶ道のひかりの遠を見ずやおなじ紅なる靄たちのぼる",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "遠",
+     "r": "をち"
+    },
+    {
+     "a": "紅",
+     "r": "あけ"
+    },
+    {
+     "a": "靄",
+     "r": "もや"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000362",
+   "pid": "aozora",
+   "pages": [],
+   "no": 357,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "かたちの子春の子血の子ほのほの子いまを自在の翅なからずや",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "翅",
+     "r": "はね"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000363",
+   "pid": "aozora",
+   "pages": [],
+   "no": 358,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ふとそれより花に色なき春となりぬ疑ひの神まどはしの神",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000364",
+   "pid": "aozora",
+   "pages": [],
+   "no": 359,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "うしや我れさむるさだめの夢を永久にさめなと祈る人の子におちぬ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "永久",
+     "r": "とは"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000365",
+   "pid": "aozora",
+   "pages": [],
+   "no": 360,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "わかき子が髪のしづくの草に凝りて蝶とうまれしここ春の国",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000366",
+   "pid": "aozora",
+   "pages": [],
+   "no": 361,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "結願のゆふべの雨に花ぞ黒き五尺こちたき髪かるうなりぬ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "結願",
+     "r": "けちぐわん"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000367",
+   "pid": "aozora",
+   "pages": [],
+   "no": 362,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "罪おほき男こらせと肌きよく黒髪ながくつくられし我れ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000368",
+   "pid": "aozora",
+   "pages": [],
+   "no": 363,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "そとぬけてその靄おちて人を見ず夕の鐘のかたへさびしき",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "靄",
+     "r": "もや"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000369",
+   "pid": "aozora",
+   "pages": [],
+   "no": 364,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "春の小川うれしの夢に人遠き朝を絵の具の紅き流さむ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000370",
+   "pid": "aozora",
+   "pages": [],
+   "no": 365,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "もろき虹の七いろ恋ふるちさき者よめでたからずや魔神の翼",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "魔神",
+     "r": "まがみ"
+    },
+    {
+     "a": "翼",
+     "r": "つばさ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000371",
+   "pid": "aozora",
+   "pages": [],
+   "no": 366,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "酔に泣くをとめに見ませ春の神男の舌のなにかするどき",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000372",
+   "pid": "aozora",
+   "pages": [],
+   "no": 367,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "その酒の濃きあぢはひを歌ふべき身なり君なり春のおもひ子",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000373",
+   "pid": "aozora",
+   "pages": [],
+   "no": 368,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "花にそむきダビデの歌を誦せむにはあまりに若き我身とぞ思ふ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000374",
+   "pid": "aozora",
+   "pages": [],
+   "no": 369,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "みかへりのそれはた更につらかりき闇におぼめく山吹垣根",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000375",
+   "pid": "aozora",
+   "pages": [],
+   "no": 370,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ゆく水に柳に春ぞなつかしき思はれ人に外ならぬ我れ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000376",
+   "pid": "aozora",
+   "pages": [],
+   "no": 371,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "その夜かの夜よわきためいきせまりし夜琴にかぞふる三とせは長き",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000377",
+   "pid": "aozora",
+   "pages": [],
+   "no": 372,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "きけな神恋はすみれの紫にゆふべの春の讃嘆のこゑ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "讃嘆",
+     "r": "さんたん"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000378",
+   "pid": "aozora",
+   "pages": [],
+   "no": 373,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "病みませるうなじに繊きかひな捲きて熱にかわける御口を吸はむ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "繊",
+     "r": "ほそ"
+    },
+    {
+     "a": "御口",
+     "r": "みくち"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000379",
+   "pid": "aozora",
+   "pages": [],
+   "no": 374,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "天の川そひねの床のとばりごしに星のわかれをすかし見るかな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000380",
+   "pid": "aozora",
+   "pages": [],
+   "no": 375,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "染めてよと君がみもとへおくりやりし扇かへらず風秋となりぬ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "秋",
+     "r": "あき"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000381",
+   "pid": "aozora",
+   "pages": [],
+   "no": 376,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "たまはりしうす紫の名なし草うすきゆかりを歎きつつ死なむ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000382",
+   "pid": "aozora",
+   "pages": [],
+   "no": 377,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "うき身朝をはなれがたなの細柱たまはる梅の歌ことたらぬ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "細柱",
+     "r": "ほそばしら"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000383",
+   "pid": "aozora",
+   "pages": [],
+   "no": 378,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "さおぼさずや宵の火かげの長き歌かたみに詞あまり多かりき",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000384",
+   "pid": "aozora",
+   "pages": [],
+   "no": 379,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "その歌を誦します声にさめし朝なでよの櫛の人はづかしき",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "誦",
+     "r": "ず"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000385",
+   "pid": "aozora",
+   "pages": [],
+   "no": 380,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "明日を思ひ明日の今おもひ宿の戸に倚る子やよわき梅暮れそめぬ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "明日",
+     "r": "あす"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000386",
+   "pid": "aozora",
+   "pages": [],
+   "no": 381,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "金色の翅あるわらは躑躅くはへ小舟こぎくるうつくしき川",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "金色",
+     "r": "こんじき"
+    },
+    {
+     "a": "翅",
+     "r": "はね"
+    },
+    {
+     "a": "躑躅",
+     "r": "つつじ"
+    },
+    {
+     "a": "小舟",
+     "r": "をぶね"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000387",
+   "pid": "aozora",
+   "pages": [],
+   "no": 382,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "月こよひいたみの眉はてらさざるに琵琶だく人の年とひますな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000388",
+   "pid": "aozora",
+   "pages": [],
+   "no": 383,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "恋をわれもろしと知りぬ別れかねおさへし袂風の吹きし時",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000389",
+   "pid": "aozora",
+   "pages": [],
+   "no": 384,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "星の世のむくのしらぎぬかばかりに染めしは誰のとがとおぼすぞ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000390",
+   "pid": "aozora",
+   "pages": [],
+   "no": 385,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "わかき子のこがれよりしは鑿のにほひ美妙の御相けふ身にしみぬ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "美妙",
+     "r": "みめう"
+    },
+    {
+     "a": "御相",
+     "r": "みさう"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000391",
+   "pid": "aozora",
+   "pages": [],
+   "no": 386,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "清し高しさはいへさびし白銀のしろきほのほと人の集見し",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "白銀",
+     "r": "しろがね"
+    },
+    {
+     "a": "集",
+     "r": "しふ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000392",
+   "pid": "aozora",
+   "pages": [],
+   "no": null,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "（酔茗の君の詩集に）",
+   "sachu": "",
+   "poems": [],
+   "jo": true
+  },
+  {
+   "id": "midaregami-000393",
+   "pid": "aozora",
+   "pages": [],
+   "no": 387,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "雁よそよわがさびしきは南なりのこりの恋のよしなき朝夕",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "雁",
+     "r": "かり"
+    },
+    {
+     "a": "朝夕",
+     "r": "あさゆふ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000394",
+   "pid": "aozora",
+   "pages": [],
+   "no": 388,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "来し秋の何に似たるのわが命せましちひさし萩よ紫苑よ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000395",
+   "pid": "aozora",
+   "pages": [],
+   "no": 389,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "柳あをき堤にいつか立つや我れ水はさばかり流とからず",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000396",
+   "pid": "aozora",
+   "pages": [],
+   "no": 390,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "幸おはせ羽やはらかき鳩とらへ罪ただしたる高き君たち",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "幸",
+     "r": "さち"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000397",
+   "pid": "aozora",
+   "pages": [],
+   "no": 391,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "打ちますにしろがねの鞭うつくしき愚かよ泣くか名にうとき羊",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "羊",
+     "r": "ひつじ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000398",
+   "pid": "aozora",
+   "pages": [],
+   "no": 392,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "誰に似むのおもひ問はれし春ひねもすやは肌もゆる血のけに泣きぬ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000399",
+   "pid": "aozora",
+   "pages": [],
+   "no": 393,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "庫裏の藤に春ゆく宵のものぐるひ御経のいのちうつつをかしき",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "庫裏",
+     "r": "くり"
+    },
+    {
+     "a": "御経",
+     "r": "みきやう"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000400",
+   "pid": "aozora",
+   "pages": [],
+   "no": 394,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "春の虹ねりのくけ紐たぐります羞ひ神の暁のかをりよ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "羞",
+     "r": "はぢろ"
+    },
+    {
+     "a": "神",
+     "r": "がみ"
+    },
+    {
+     "a": "暁",
+     "r": "あけ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000401",
+   "pid": "aozora",
+   "pages": [],
+   "no": 395,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "室の神に御肩かけつつひれふしぬゑんじなればの宵の一襲",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "室",
+     "r": "むろ"
+    },
+    {
+     "a": "御肩",
+     "r": "みかた"
+    },
+    {
+     "a": "一襲",
+     "r": "ひとかさね"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000402",
+   "pid": "aozora",
+   "pages": [],
+   "no": 396,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "天の才ここににほひの美しき春をゆふべに集ゆるさずや",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "天",
+     "r": "あめ"
+    },
+    {
+     "a": "才",
+     "r": "さい"
+    },
+    {
+     "a": "集",
+     "r": "しふ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000403",
+   "pid": "aozora",
+   "pages": [],
+   "no": 397,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "消えて凝りて石と成らむの白桔梗秋の野生の趣味さて問ふな",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "凝",
+     "r": "こ"
+    },
+    {
+     "a": "白桔梗",
+     "r": "しろぎきやう"
+    },
+    {
+     "a": "野生",
+     "r": "のおひ"
+    },
+    {
+     "a": "趣味",
+     "r": "しゆみ"
+    }
+   ]
+  },
+  {
+   "id": "midaregami-000404",
+   "pid": "aozora",
+   "pages": [],
+   "no": 398,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "歌の手に葡萄をぬすむ子の髪のやはらかいかな虹のあさあけ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "midaregami-000405",
+   "pid": "aozora",
+   "pages": [],
+   "no": 399,
+   "maki": "春思",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "そと秘めし春のゆふべのちさき夢はぐれさせつる十三絃よ",
+   "sachu": "",
+   "poems": []
+  }
+ ],
+ "poems": [],
+ "catalog": {
+  "work_id": "midaregami",
+  "work": "みだれ髪",
+  "yomi": "みだれがみ",
+  "category": "近代歌集",
+  "era": "明治時代",
+  "author": "与謝野晶子",
+  "kind": "kashu",
+  "blocks": 405,
+  "chars": 10687,
+  "poems": 399,
+  "yaku": 0,
+  "editions": 1,
+  "updated": "2026-11-21",
+  "updated_at": "2026-11-21T19:18:35+09:00"
+ }
+}
